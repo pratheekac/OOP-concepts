@@ -6,7 +6,12 @@
           <option name="url" value="http://git.cropin.in" />
           <option name="userName" value="pratheeka.chandrakanth@cropin.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pratheekac/learning_curve.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$" />
   </component>
 </application>
