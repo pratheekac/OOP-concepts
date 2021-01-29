@@ -1,0 +1,10 @@
+
+This repository will mainly contain,
+
+Java-core
+Data structures and algorithms
+Spring
+JSP
+SpringBoot 
+Microservices
+..
